@@ -1,0 +1,64 @@
+div img {
+    margin-left: 15rem;
+  }
+  
+  li .git {
+    margin-top: -3rem;
+    position: absolute;
+    margin-left: 95rem;
+  }
+  
+  li .linkedin {
+    margin-top: -3rem;
+    position: absolute;
+    margin-left: 101rem;
+  }
+  
+  li .insta {
+    margin-top: -3rem;
+    position: absolute;
+    margin-left: 107rem;
+  }
+  
+  li .twitter {
+    margin-top: -3rem;
+    position: relative;
+    margin-left: 113rem;
+  }
+  
+  .header {
+    box-sizing: content-box;
+    list-style-type: none;
+  }
+
+
+@media(max-width: 910px) {
+   div img {
+        position: absolute;
+        margin-left: 0rem;
+    }
+
+    li .git {
+      position: absolute;
+      margin-top: -0.6rem;
+      margin-left: 10.5rem;
+    }
+
+    li .linkedin {
+      position: absolute;
+      margin-top: -0.6rem;
+      margin-left: 14.5rem;
+    }
+
+    li .insta {
+      display: none;
+    }
+    
+    li .twitter {
+      position: absolute;
+      margin-top: -0.6rem;
+      margin-left: 6.5rem;
+    }
+}
+
+
