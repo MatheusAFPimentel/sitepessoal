@@ -13,13 +13,12 @@
     .logo {
       width: auto;
       margin-right: auto;
-      margin-left: 1.5rem;
+      margin-left: 0.3rem;
     }
 
     .links {
       float: left;
       margin-top: 2rem;
-      margin-left: 1.5rem;
     }
 }
 
