@@ -80,6 +80,7 @@
     }
 
     .Title {
+      margin-top: 7rem ;
       margin-left: 0.5rem;
       width: auto;
     }
@@ -88,7 +89,7 @@
       top: 50%;
       left: 50%;
       transform: translate(-50%, -50%);
-      margin-top: 32vh;
+      margin-top: 46.8vh;
       margin-left: -1rem;
       
     }
